@@ -4,3 +4,4 @@ C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_TypeBasics\ch2_TypeBasics\bin
 C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_TypeBasics\ch2_TypeBasics\obj\Debug\ch2_TypeBasics.csproj.CoreCompileInputs.cache
 C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_TypeBasics\ch2_TypeBasics\obj\Debug\ch2_TypeBasics.exe
 C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_TypeBasics\ch2_TypeBasics\obj\Debug\ch2_TypeBasics.pdb
+C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_TypeBasics\ch2_TypeBasics\obj\Debug\ch2_TypeBasics.csproj.AssemblyReference.cache

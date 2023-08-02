@@ -8,27 +8,24 @@ namespace ch2_TypeBasics
 {
     class Program
     {
-		public class Dog
-		{
-			public string Name;             // 인스턴스 필드 
-			public static int Population;   // 정적 필드 
+        public struct Point
+        {
+            public int x, y;
+        }
+        static void Main()
+        {
+            Point p1 = new Point();
+            p1.x = 7;
 
-			public Dog(string n)           // 생성자 
-			{
-				Name = n;                      // 인스턴스 필드에 값 할당 
-				Population = Population + 1;   // 정적 필드값 1 증가 
-			}
-		}
+            Point p2 = p1;             
 
-		static void Main()
-		{
-			Dog p1 = new Dog("Luda");
-			Dog p2 = new Dog("Mori");
+            Console.WriteLine(p1.x);  // 7
+            Console.WriteLine(p2.x);  // 7
 
-			Console.WriteLine(p1.Name);
-			Console.WriteLine(p2.Name);
+            p1.x = 9;                  // p1의 x값 변경
 
-			Console.WriteLine(Dog.Population);   // 2
-		}
-	}
+            Console.WriteLine(p1.x);  // 9
+            Console.WriteLine(p2.x);  // 7
+        }
+    }
 }

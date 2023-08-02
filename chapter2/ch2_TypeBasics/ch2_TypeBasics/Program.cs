@@ -14,18 +14,11 @@ namespace ch2_TypeBasics
         }
 		static void Main()
 		{
-			Point p1 = new Point();
-			p1.x= 7;
+			Point p = null;
+			Console.WriteLine(p == null);   // 참조 변수 p의 값을 null로 배정 
 
-			Point p2 = p1;             // 참조로 복사 
-
-			Console.WriteLine(p1.x);  // 7
-			Console.WriteLine(p2.x);  // 7
-
-			p1.x = 9;                  // P1의 x만 변경
-
-			Console.WriteLine(p1.x);  // 9
-			Console.WriteLine(p2.x);  // 9
+			// 처리되지 않은 예외 (참조가 아무 객체도 가리키지 않기 때문)
+			Console.WriteLine(p.x);
 		}
 	}
 }

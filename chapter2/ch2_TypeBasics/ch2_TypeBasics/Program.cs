@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace chapter2
+namespace ch2_TypeBasics
 {
-	class Test
-	{
+    class Program
+    {
 		public class Dog
 		{
 			public string Name;             // 인스턴스 필드 

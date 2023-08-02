@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ex_storage",
+      "appliesTo": "ch2_TypeBasics/ex_storage.cs",
+      "type": "launch"
+    }
+  ]
+}

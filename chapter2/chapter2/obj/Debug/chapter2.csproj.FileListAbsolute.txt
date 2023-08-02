@@ -1,0 +1,7 @@
+C:\Users\ejlee\Documents\GitHub\study\chapter2\chapter2\bin\Debug\chapter2.exe.config
+C:\Users\ejlee\Documents\GitHub\study\chapter2\chapter2\bin\Debug\chapter2.exe
+C:\Users\ejlee\Documents\GitHub\study\chapter2\chapter2\bin\Debug\chapter2.pdb
+C:\Users\ejlee\Documents\GitHub\study\chapter2\chapter2\obj\Debug\chapter2.csproj.AssemblyReference.cache
+C:\Users\ejlee\Documents\GitHub\study\chapter2\chapter2\obj\Debug\chapter2.csproj.CoreCompileInputs.cache
+C:\Users\ejlee\Documents\GitHub\study\chapter2\chapter2\obj\Debug\chapter2.exe
+C:\Users\ejlee\Documents\GitHub\study\chapter2\chapter2\obj\Debug\chapter2.pdb

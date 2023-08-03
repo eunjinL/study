@@ -1,0 +1,7 @@
+C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_remainder\ch2_remainder\bin\Debug\ch2_remainder.exe.config
+C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_remainder\ch2_remainder\bin\Debug\ch2_remainder.exe
+C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_remainder\ch2_remainder\bin\Debug\ch2_remainder.pdb
+C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_remainder\ch2_remainder\obj\Debug\ch2_remainder.csproj.AssemblyReference.cache
+C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_remainder\ch2_remainder\obj\Debug\ch2_remainder.csproj.CoreCompileInputs.cache
+C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_remainder\ch2_remainder\obj\Debug\ch2_remainder.exe
+C:\Users\ejlee\Documents\GitHub\study\chapter2\ch2_remainder\ch2_remainder\obj\Debug\ch2_remainder.pdb

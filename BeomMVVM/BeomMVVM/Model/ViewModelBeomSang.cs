@@ -81,7 +81,7 @@ namespace BeomMVVM.Model
             get
             {
                 if (!isBirthError)
-                    return $"입력하신 생년월일 : {birth}";
+                    return $"입력한 생년월일 : {birth}";
                 else
                     return $"생년월일은 숫자로 입력해 주세요 : {birth}";
             }

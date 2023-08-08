@@ -40,7 +40,32 @@
     <None Include="inheritance.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="object.cs" />
+    <None Include="object.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Boxing_Unboxing.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="type.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="struct.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="accessibility.cs" />
+    <None Include="interface.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="enum_ex.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="enum_convert.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="enum_flags.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="generic.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -16,16 +16,13 @@ namespace chapter3
 			public object Pop() { return data[--position]; }
 		}
 
-		// Because Stack works with the object type, we can Push and Pop instances of any type to and from the Stack:
-
 		static void Main()
 		{
 			Stack stack = new Stack();
 			stack.Push("sausage");
-			string s = (string)stack.Pop();   // Downcast, so explicit cast is needed
-			Console.WriteLine(s);             // sausage
+			string s = (string)stack.Pop();   
+			Console.WriteLine(s);           
 
-			// You can even push value types:
 			stack.Push(3);
 			int three = (int)stack.Pop();
 		}

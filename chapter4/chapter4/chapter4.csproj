@@ -36,7 +36,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Event_ex2.cs" />
+    <Compile Include="throwing_exception.cs" />
+    <None Include="try_catch.cs" />
+    <None Include="Event_ex2.cs" />
+    <None Include="lamda.cs" />
     <None Include="Event_example.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
